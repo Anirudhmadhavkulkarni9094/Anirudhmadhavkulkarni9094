@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Anirudh Madhav Kulkarni
 - 👀 I’m interested in Front-End Web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Javascipt
 - 📫 How to reach me : Anirudhkulkarni9094@gmail.com
 
 <!---
