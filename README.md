@@ -55,3 +55,38 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-madhav-kulkarni" alt="GitHub Streak" />
 </p>
+
+
+## Let's Play "Guess the Number" Game!
+
+I have chosen a random number between 1 and 100. Can you guess what it is?
+
+You can start by guessing a number, and I will let you know if it's too high or too low. Keep guessing until you find the correct number!
+
+To play the game, you can use the code snippet provided below:
+
+```python
+import random
+
+# Generate a random number between 1 and 100
+target_number = random.randint(1, 100)
+
+# Function to check if the guessed number is correct
+def check_guess(guess):
+    if guess == target_number:
+        return "Congratulations! You guessed the correct number."
+    elif guess < target_number:
+        return "Too low! Try a higher number."
+    else:
+        return "Too high! Try a lower number."
+
+# Main game loop
+while True:
+    try:
+        guess = int(input("Enter your guess: "))
+        result = check_guess(guess)
+        print(result)
+        if result.startswith("Congratulations"):
+            break
+    except ValueError:
+        print("Invalid input. Please enter a valid number.")
