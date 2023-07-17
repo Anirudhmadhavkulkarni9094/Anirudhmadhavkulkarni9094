@@ -1,41 +1,18 @@
-# Hi there! 👋 I'm Anirudh Madhav Kulkarni
-
-## About Me
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning React.js and Node.js
-- 💬 Ask me about Data Structures & Algorithms
-- ⚡ Fun fact: I think I am funny 😎🤣
-
-## Connect with Me
-- LinkedIn: [anirudh-madhav-kulkarni](https://linkedin.com/in/anirudh-madhav-kulkarni)
-- CodeChef: [anirudh9094](https://www.codechef.com/users/anirudh9094)
-- HackerRank: [anirudhkulkarni9094](https://www.hackerrank.com/anirudhkulkarni9094)
-- LeetCode: [anirudhkulkarni9094](https://www.leetcode.com/anirudhkulkarni9094)
-- HackerEarth: [anirudhkulkarni9094](https://www.hackerearth.com/anirudhkulkarni9094)
-- Email: Anirudhkulkarni9094@gmail.com
-
 ## Languages and Tools
-- C/C++
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
-- React.js
-- Node.js
-- Express.js
-- Python
-- PHP
-- MySQL
-- MATLAB
-- Git
-- Linux
-- Photoshop
-
-## GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=anirudh-madhav-kulkarni&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=anirudh-madhav-kulkarni)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-madhav-kulkarni&layout=compact)](https://github.com/anirudh-madhav-kulkarni)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirudh-madhav-kulkarni&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anirudh-madhav-kulkarni)
+- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) C
+- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) C++
+- ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java
+- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML5
+- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) CSS3
+- ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) Bootstrap
+- ![React.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React.js
+- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node.js
+- ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) Express.js
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) MySQL
+- ![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png) MATLAB
+- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git
+- ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux
+- ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg) Photoshop
