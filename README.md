@@ -1,55 +1,63 @@
-# Hi there! 👋 I'm Anirudh Madhav Kulkarni
+# Hello, I'm Anirudh Kulkarni! 👋
+
+I'm a passionate Full Stack Developer based in Bangalore, India. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
 
 ## About Me
-- 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning React.js and Node.js
-- 💬 Ask me about Data Structures & Algorithms
 
-## Connect with Me
-- LinkedIn: [anirudh-madhav-kulkarni](https://linkedin.com/in/anirudh-madhav-kulkarni)
-- CodeChef: [anirudh9094](https://www.codechef.com/users/anirudh9094)
-- HackerRank: [anirudhkulkarni9094](https://www.hackerrank.com/anirudhkulkarni9094)
-- LeetCode: [anirudhkulkarni9094](https://www.leetcode.com/anirudhkulkarni9094)
-- HackerEarth: [anirudhkulkarni9094](https://www.hackerearth.com/anirudhkulkarni9094)
-- Email: Anirudhkulkarni9094@gmail.com
+- 🎓 Electronics Engineering graduate from Bangalore Institute of Technology, with a CGPA of 8.4 (Aug 2023).
+- 💼 Currently working as a Full Stack Developer Intern at MBB Labs, Maybank Bangalore.
+- 🌱 Always learning and exploring new technologies to enhance my skills.
 
-## Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="30"/>
-</p>
+## Skills
 
-## GitHub Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anirudh-madhav-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### Programming Languages
+Java, JavaScript, C/C++
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=anirudh-madhav-kulkarni" alt="GitHub Trophy" />
-</p>
+### Front-end Technologies
+HTML, CSS, React.js, Bootstrap, Tailwind CSS, Flutter
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-madhav-kulkarni&layout=compact" alt="Top Languages" />
-</p>
+### Back-end Technologies
+Rest APIs, Node.js, Express.js, Java Spring Boot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudh-madhav-kulkarni&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### Database
+MySQL, MongoDB
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh-madhav-kulkarni" alt="GitHub Streak" />
-</p>
+### Tools & Technologies
+Git & GitHub, Netlify & Render, Postman, Pandas, NumPy, Matplotlib, Scikit-learn
 
+## Work Experience
+
+### MBB Labs, Maybank Bangalore
+- Full Stack Developer Intern (Nov 2023 - Present)
+  - Designing and implementing Rest APIs for new Bank Insurance service.
+  - Tech stack: Java Spring Boot, React.js, Hibernate, PL/SQL.
+
+### Sain Informatics
+- Full Stack Developer Intern (Aug 2022 - Sep 2022)
+  - Spearheaded the development of a cryptocurrency tracking website.
+  - Tech stack: React.js, Axios, HTML, CSS, JavaScript, APIs integration.
+
+## Projects
+
+### Personal Blogging Platform
+- Developed a personal blogging platform with MongoDB, React.js, Express.js, Node.js.
+- Implemented microservices for efficient data fetching.
+
+### MindWellnessPro - Mental Health Web App
+- Led the development of a modern mental health app integrating sentiment analysis.
+- Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB.
+
+## Achievements
+
+### SparXelerate Hackathon Bangalore
+- Winner (1st place) - October 2023
+  - Developed MindWellnessPro web app.
+  - Utilized sentiment analysis for personalized user experiences.
+  - Streamlined therapist workflow with AI-driven report generation.
+
+## Get in Touch
+
+- 📧 Email: Anirudh.madhav.kulkarni@gmail.com
+- 💼 LinkedIn: [Anirudh Kulkarni](https://www.linkedin.com/in/anirudh-kulkarni/)
+- 🌐 Portfolio: [Portfolio Website](https://www.anirudh-kulkarni.netlify.app) *Note: Add your portfolio website link here*
+- 📱 Phone: +91 7899416499
