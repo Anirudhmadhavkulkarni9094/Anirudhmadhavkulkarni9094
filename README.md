@@ -59,5 +59,5 @@ Git & GitHub, Netlify & Render, Postman, Pandas, NumPy, Matplotlib, Scikit-learn
 
 - 📧 Email: Anirudh.madhav.kulkarni@gmail.com
 - 💼 LinkedIn: [Anirudh Kulkarni](https://www.linkedin.com/in/anirudh-kulkarni/)
-- 🌐 Portfolio: [Portfolio Website](https://www.anirudh-kulkarni.netlify.app) *Note: Add your portfolio website link here*
+- 🌐 Portfolio: [Portfolio Website](https://www.anirudh-kulkarni.netlify.app)
 - 📱 Phone: +91 7899416499
