@@ -27,8 +27,14 @@ Git & GitHub, Netlify & Render, Postman, Pandas, NumPy, Matplotlib, Scikit-learn
 
 ## Work Experience
 
+### Brillio Technologies, Bangalore
+- Full stack developer (March 2024 - present)
+  - Design and Implement client specific requirements to develop landing pages, and SaaS products
+  - Migrating projects from old tech stack to new stack like Next.js, Fast API.
+  - Tech stack : Next.js, React.js, Figma, Fast API, Node.js, Express.js, Java spring boot, Hibernate, MongoDB, Mysql, PostgreSQL.
+
 ### MBB Labs, Maybank Bangalore
-- Full Stack Developer Intern (Nov 2023 - Present)
+- Full Stack Developer Intern (Nov 2023 - March 2024)
   - Designing and implementing Rest APIs for new Bank Insurance service.
   - Tech stack: Java Spring Boot, React.js, Hibernate, PL/SQL.
 
