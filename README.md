@@ -54,11 +54,6 @@ I’m open to:
 - **AI Calorie Tracker** – smart food logging & insights
 - **Freelancer Ops Tools** – billing, analytics & automation
 
----
-
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirudhmadhavkulkarni9094&show_icons=true&theme=tokyonight&count_private=true)
-
 
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/anirudhmadhavkulkarni
