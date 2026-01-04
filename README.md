@@ -1,69 +1,66 @@
-# Hello, I'm Anirudh Kulkarni! 👋
+# 👋 Hi, I'm Anirudh
 
-I'm a passionate Full Stack Developer based in Bangalore, India. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
+🚀 Software Developer | SaaS Builder | Freelancer  
+💻 I help businesses build scalable web & mobile products  
+🌍 Interested in product building, automation & financial literacy
 
-## About Me
+---
 
-- 🎓 Electronics Engineering graduate from Bangalore Institute of Technology, with a CGPA of 8.4 (Aug 2023).
-- 💼 Currently working as a Full Stack Developer Intern at MBB Labs, Maybank Bangalore.
-- 🌱 Always learning and exploring new technologies to enhance my skills.
+## 👨‍💻 What I Do
+- Build **production-ready full-stack applications**
+- Design and develop **REST APIs & backend systems**
+- Create **SaaS products** from idea → MVP → scale
+- Help founders & teams ship faster
 
-## Skills
+---
 
-### Programming Languages
-Java, JavaScript, C/C++
+## 🛠 Skills & Tech
 
-### Front-end Technologies
-HTML, CSS, React.js, Bootstrap, Tailwind CSS, Flutter
+**Languages**
+- JavaScript / TypeScript
+- Python
+- SQL
 
-### Back-end Technologies
-Rest APIs, Node.js, Express.js, Java Spring Boot
+**Frontend**
+- React, React Native
+- Next.js
+- Tailwind CSS
 
-### Database
-MySQL, MongoDB
+**Backend**
+- Node.js (Express / Fastify)
+- Supabase
+- REST APIs
 
-### Tools & Technologies
-Git & GitHub, Netlify & Render, Postman, Pandas, NumPy, Matplotlib, Scikit-learn
+**Cloud & DevOps**
+- AWS (EC2, S3, Lambda)
+- Docker
+- GitHub Actions
 
-## Work Experience
+---
 
-### Brillio Technologies, Bangalore
-- Full stack developer (March 2024 - present)
-  - Design and Implement client specific requirements to develop landing pages, and SaaS products
-  - Migrating projects from old tech stack to new stack like Next.js, Fast API.
-  - Tech stack : Next.js, React.js, Figma, Fast API, Node.js, Express.js, Java spring boot, Hibernate, MongoDB, Mysql, PostgreSQL.
+## 💼 Freelancing
+I’m open to:
+- ✔ SaaS MVP development
+- ✔ Backend & API development
+- ✔ Startup & founder support
+- ✔ Long-term maintenance & scaling
 
-### MBB Labs, Maybank Bangalore
-- Full Stack Developer Intern (Nov 2023 - March 2024)
-  - Designing and implementing Rest APIs for new Bank Insurance service.
-  - Tech stack: Java Spring Boot, React.js, Hibernate, PL/SQL.
+📩 **Reach out if you want to build something solid.**
 
-### Sain Informatics
-- Full Stack Developer Intern (Aug 2022 - Sep 2022)
-  - Spearheaded the development of a cryptocurrency tracking website.
-  - Tech stack: React.js, Axios, HTML, CSS, JavaScript, APIs integration.
+---
 
-## Projects
+## 🚀 Selected Work
+- **Telehealth Platform** – secure video consultations, audit logs & compliance
+- **AI Calorie Tracker** – smart food logging & insights
+- **Freelancer Ops Tools** – billing, analytics & automation
 
-### Personal Blogging Platform
-- Developed a personal blogging platform with MongoDB, React.js, Express.js, Node.js.
-- Implemented microservices for efficient data fetching.
+---
 
-### MindWellnessPro - Mental Health Web App
-- Led the development of a modern mental health app integrating sentiment analysis.
-- Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB.
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirudhmadhavkulkarni9094&show_icons=true&theme=tokyonight&count_private=true)
 
-## Achievements
 
-### SparXelerate Hackathon Bangalore
-- Winner (1st place) - October 2023
-  - Developed MindWellnessPro web app.
-  - Utilized sentiment analysis for personalized user experiences.
-  - Streamlined therapist workflow with AI-driven report generation.
-
-## Get in Touch
-
-- 📧 Email: Anirudh.madhav.kulkarni@gmail.com
-- 💼 LinkedIn: [Anirudh Kulkarni](https://www.linkedin.com/in/anirudh-kulkarni/)
-- 🌐 Portfolio: [Portfolio Website](https://anirudh-kulkarni.com/)
-- 📱 Phone: +91 7899416499
+## 🤝 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/anirudhmadhavkulkarni
+- 🌐 Portfolio: https://anirudh-kulkarni.com
+- 📧 Email: anirudh.kulkarni.dev@gmail.com
