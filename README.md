@@ -1,17 +1,17 @@
 # Hi, I’m Anirudh 👋
 
-I’m a software developer who likes building simple, reliable web products.  
-Most of my work revolves around backend systems, APIs, and SaaS-style applications.
+I’m a software developer who helps founders turn ideas into working SaaS products.  
+I focus on building clean backend systems, practical UIs, and MVPs that are easy to iterate on.
 
-I enjoy taking ideas from early sketches to something usable and maintainable.
+I care about shipping early, keeping systems simple, and scaling only when it makes sense.
 
 ---
 
-## What I do
-- Build full-stack web applications
-- Design and implement REST APIs
-- Develop SaaS MVPs and internal tools
-- Improve existing products through automation and refactoring
+## What I help with
+- SaaS MVP development (idea → launch)
+- Backend architecture & REST APIs
+- Authentication, payments, and integrations
+- Improving reliability and performance of existing products
 
 ---
 
@@ -39,22 +39,22 @@ I enjoy taking ideas from early sketches to something usable and maintainable.
 
 ---
 
-## Some things I’ve worked on
-- **Telehealth platform** — secure video consultations with audit logs and compliance-focused backend
-- **AI calorie tracker** — food logging with intelligent insights
-- **Freelancer tools** — billing, analytics, and workflow automation
+## Selected work
+- **Telehealth SaaS** — secure video consultations, audit logs, compliance-ready backend
+- **AI calorie tracking app** — food logging with intelligent insights
+- **Freelancer ops tools** — billing, analytics, and workflow automation
 
 ---
 
-## Freelance & collaboration
+## Working together
 I’m open to:
-- SaaS MVP development
-- Backend & API work
-- Long-term product support
+- Early-stage SaaS builds
+- Founder-led teams
+- Long-term product ownership
 
 ---
 
-## Get in touch
+## Contact
 - LinkedIn: https://linkedin.com/in/anirudhmadhavkulkarni
 - Portfolio: https://anirudh-kulkarni.com
 - Email: anirudh.kulkarni.dev@gmail.com
