@@ -1,20 +1,21 @@
-# 👋 Hi, I'm Anirudh
+# Hi, I’m Anirudh 👋
 
-🚀 Software Developer | SaaS Builder | Freelancer  
-💻 I help businesses build scalable web & mobile products  
-🌍 Interested in product building, automation & financial literacy
+I’m a software developer who likes building simple, reliable web products.  
+Most of my work revolves around backend systems, APIs, and SaaS-style applications.
 
----
-
-## 👨‍💻 What I Do
-- Build **production-ready full-stack applications**
-- Design and develop **REST APIs & backend systems**
-- Create **SaaS products** from idea → MVP → scale
-- Help founders & teams ship faster
+I enjoy taking ideas from early sketches to something usable and maintainable.
 
 ---
 
-## 🛠 Skills & Tech
+## What I do
+- Build full-stack web applications
+- Design and implement REST APIs
+- Develop SaaS MVPs and internal tools
+- Improve existing products through automation and refactoring
+
+---
+
+## Tech stack
 
 **Languages**
 - JavaScript / TypeScript
@@ -22,12 +23,12 @@
 - SQL
 
 **Frontend**
-- React, React Native
-- Next.js
+- React, Next.js
+- React Native
 - Tailwind CSS
 
 **Backend**
-- Node.js (Express / Fastify)
+- Node.js (Express, Fastify)
 - Supabase
 - REST APIs
 
@@ -38,24 +39,22 @@
 
 ---
 
-## 💼 Freelancing
-I’m open to:
-- ✔ SaaS MVP development
-- ✔ Backend & API development
-- ✔ Startup & founder support
-- ✔ Long-term maintenance & scaling
-
-📩 **Reach out if you want to build something solid.**
+## Some things I’ve worked on
+- **Telehealth platform** — secure video consultations with audit logs and compliance-focused backend
+- **AI calorie tracker** — food logging with intelligent insights
+- **Freelancer tools** — billing, analytics, and workflow automation
 
 ---
 
-## 🚀 Selected Work
-- **Telehealth Platform** – secure video consultations, audit logs & compliance
-- **AI Calorie Tracker** – smart food logging & insights
-- **Freelancer Ops Tools** – billing, analytics & automation
+## Freelance & collaboration
+I’m open to:
+- SaaS MVP development
+- Backend & API work
+- Long-term product support
 
+---
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/anirudhmadhavkulkarni
-- 🌐 Portfolio: https://anirudh-kulkarni.com
-- 📧 Email: anirudh.kulkarni.dev@gmail.com
+## Get in touch
+- LinkedIn: https://linkedin.com/in/anirudhmadhavkulkarni
+- Portfolio: https://anirudh-kulkarni.com
+- Email: anirudh.kulkarni.dev@gmail.com
